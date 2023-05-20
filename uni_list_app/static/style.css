@@ -1,0 +1,31 @@
+@import url('https://fonts.googleapis.com/css2?family=Amaranth&family=Mukta+Vaani&family=Roboto&display=swap');
+
+body {
+    background-color: #407eec;
+    color: #f8f8f8;
+    font-size: 20px;
+    font-family: "Consolas", sans-serif;
+}
+
+h1, h2 {
+    font-family: "Roboto", sans-serif;
+}
+
+h3, h4 {
+    font-family: "Amaranth", sans-serif;
+}
+
+p {
+    font-family: "Mukta Vaadin", sans-serif;
+}
+
+a {
+    text-decoration: underline dotted;
+    color: white;
+}
+
+a:hover {
+    color: #fa6821;
+    transition: color, 1s;
+}
+
